@@ -13,10 +13,10 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
- <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
- <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-for-the-badge&logo=C++&logoColor=white"/></a>
- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+ <img src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=Html&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-for-the-badge&logo=C++&logoColor=white"/></a>
+ <img src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
 
 #### Tools
