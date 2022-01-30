@@ -1,14 +1,21 @@
 <p>
-<a href="mailto:tlgns1212@naver.com" target="_blank"><img src="https://img.shields.io/badge/tlgns1212@naver.com-3DDC84?style=square&logo=Naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/k.sh_n/" target="_blank"><img src="https://img.shields.io/badge/k.sh_n-DD0B78?style=square&logo=Instagram&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70"/>
 </p>
 
+## Welcome to my Place
 <p>
   :seedling:&nbsp; Hi there! I'm a <b>beginner game developer</b> learning Unreal Engine 4. :two_hearts:<br/>
   Sometimes I try to learn all kinds of stuff such as making my own blog, homepage, applications, etc. :books:<br/><br/>
   I really love swimming, golf, talking, and playing games. :golf::swimmer:<br/>
-  I hope I can make my own RPG/FPS game and play it with my friends! :video_game: <br/><br/>
+  I hope I can make my own RPG/FPS game and play it with my friends! :video_game:<br/><br/>
 </p>
+
+<!--배경화면 트로피 스테이트-->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tlgns1212&theme=flat&column=7)](https://github.com/tlgns1212/github-profile-trophy)
+
+<!--커밋 스테이트-->
+![tlgns1212's github stats](https://github-readme-stats.vercel.app/api?username=tlgns1212&show_icons=true)
+[![tlgns1212's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tlgns1212&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tlgns1212)
 
 ### 💪 Skills
 #### Platforms & Languages
@@ -22,4 +29,11 @@
 #### Tools
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/>
+</p>
+
+## 
+
+<p>
+<a href="mailto:tlgns1212@naver.com" target="_blank"><img src="https://img.shields.io/badge/tlgns1212@naver.com-3DDC84?style=square&logo=Naver&logoColor=white"/></a>
+<a href="https://www.instagram.com/k.sh_n/" target="_blank"><img src="https://img.shields.io/badge/k.sh_n-DD0B78?style=square&logo=Instagram&logoColor=white"/></a>
 </p>
