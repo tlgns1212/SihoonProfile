@@ -11,10 +11,10 @@
 </p>
 
 <!--배경화면 트로피 스테이트-->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tlgns1212&theme=flat&column=7)](https://github.com/tlgns1212/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tlgns1212&theme=flat&column=7)](https://github.com/tlgns1212)
 
 <!--커밋 스테이트-->
-![tlgns1212's github stats](https://github-readme-stats.vercel.app/api?username=tlgns1212&show_icons=true)
+![tlgns1212's github stats](https://github-readme-stats.vercel.app/api?username=tlgns1212&show_icons=true)](https://github.com/tlgns1212)
 [![tlgns1212's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tlgns1212&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tlgns1212)
 
 ### 💪 Skills
