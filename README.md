@@ -4,7 +4,7 @@
 
 # Welcome to my Place
 <p>
-  Hi there! I'm a <b>beginner game developer</b> learning Unreal Engine 4. :two_hearts:<br/>
+  Hi there! I'm a <b>beginner developer</b> learning Unreal Engine 4 to make my own game. :two_hearts:<br/>
   Sometimes I try to learn all kinds of stuff such as making my own blog, homepage, applications, etc. :books:<br/><br/>
   I really love swimming, golf, talking, and playing games. :golf::swimmer:<br/>
   I hope I can make my own RPG/FPS game and play it with my friends! :video_game:<br/><br/>
