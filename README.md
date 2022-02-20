@@ -28,7 +28,7 @@
 
 #### Tools
 <p>
- <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05031?style=square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/UE4-000000?style=square&logo=UnrealEngine&logoColor=white"/>
 </p>
 
