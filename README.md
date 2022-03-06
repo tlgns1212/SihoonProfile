@@ -1,5 +1,5 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD158&text=🐤🐥🐣&fontAlign=70"/>
 </p>
 
 # Welcome to my Place!!!
