@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD158&text=🐤🐥🐣&fontAlign=70"/>
 </p>
 
-# Welcome to my Place!!!!!!
+# Welcome to my Place!!!!!!!
 <p>
   Hi there! I'm a <b>beginner developer</b> learning Unreal Engine 4 to make my own game. :two_hearts:<br/>
   Sometimes I try to learn all kinds of stuff, such as making my own blog, homepage, applications, etc. :books:<br/><br/>
